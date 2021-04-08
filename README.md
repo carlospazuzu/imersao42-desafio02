@@ -1,6 +1,7 @@
 # desafio02imersao42
 
-## Project setup ```
+## Project setup 
+```
 yarn install
 ```
 
