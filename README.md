@@ -1,7 +1,6 @@
 # desafio02imersao42
 
-## Project setup
-```
+## Project setup ```
 yarn install
 ```
 
@@ -23,4 +22,4 @@ yarn lint
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
-### See it live at [https://intense-earth-37063.herokuapp.com/](https://intense-earth-37063.herokuapp.com/)
+See it live at [https://intense-earth-37063.herokuapp.com/](https://intense-earth-37063.herokuapp.com/)
